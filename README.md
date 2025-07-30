@@ -9,5 +9,3 @@ This project utilizes the OpenWeatherMap API using Springboot
 2) Compile the project: <kbd>$ mvn compile</kbd>  Note: you must be on the directory that contains the `pom.xml` file
 
 3) Change directory and go to the `target` directory: <kbd>cd target</kbd>
-
-4) 
